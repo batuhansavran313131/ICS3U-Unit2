@@ -5,8 +5,8 @@ import simpleIO.Console;
 public class HelloWorld {
 	
     public static void main(String[] args) {
-    	
+    	//
         Console.print("Hello World");
-        
+       
     }
 }
